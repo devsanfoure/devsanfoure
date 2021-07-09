@@ -3,12 +3,11 @@
 
 <h3 align="center">A passionate Backend developer aiming to become a Full Stack dev</h3>
 <div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-3/808319326036688918.png"></div>
-<div align="right"><img alt= "owo"src = "https://spotify-github-profile.vercel.app/api/view?uid=0qr4lrrkcrzshcpxp5so11tcv&cover_image=true&theme=novatorem"></div>
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devsanfoure&label=Profile%20views&color=0e75b6&style=flat" alt="whirl21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devsanfoure&label=Profile%20views&color=0e75b6&style=flat" alt="devsanfoure" /> </p>
 
 
 - 🔭 I’m currently working on - **Improving my Skills and new projects**
